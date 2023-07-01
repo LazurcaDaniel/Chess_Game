@@ -1,0 +1,55 @@
+﻿  main.cpp
+C:\Users\Daniel\source\repos\Chess\main.cpp(53,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel\source\repos\Chess\main.cpp(53,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel\source\repos\Chess\main.cpp(1062,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel\source\repos\Chess\main.cpp(1082,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Daniel\source\repos\Chess\main.cpp(1082,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Daniel\source\repos\Chess\main.cpp(1331,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Daniel\source\repos\Chess\main.cpp(1331,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Daniel\source\repos\Chess\main.cpp(1336,66): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Daniel\source\repos\Chess\main.cpp(1337,66): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Daniel\source\repos\Chess\main.cpp(1346,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel\source\repos\Chess\main.cpp(1347,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel\source\repos\Chess\main.cpp(1101): warning C4715: 'swapPieces': not all control paths return a value
+C:\Users\Daniel\source\repos\Chess\main.cpp(1049): warning C4715: 'isMoveLegal': not all control paths return a value
+  Chess.vcxproj -> C:\Users\Daniel\source\repos\Chess\x64\Debug\Chess.exe
